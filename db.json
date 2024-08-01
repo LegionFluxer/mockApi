@@ -1,0 +1,99 @@
+{
+  "options": [
+    {
+      "id": 1,
+      "nombre": "010-Dictámenes",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 2,
+      "nombre": "Solicitud de CX",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 3,
+      "nombre": "Presupuesto de CX",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 4,
+      "nombre": "Autorizaciones",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 5,
+      "nombre": "Estudios",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 6,
+      "nombre": "Evoluciones",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 7,
+      "nombre": "Alta médica",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 8,
+      "nombre": "Solicitud de turno",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 9,
+      "nombre": "CRM Traslados",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 10,
+      "nombre": "CRM General",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 11,
+      "nombre": "Médico de grupo",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 12,
+      "nombre": "Telegrama",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 13,
+      "nombre": "Requerimiento SRT",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 14,
+      "nombre": "Relevamiento investigación",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 15,
+      "nombre": "Reintegro",
+      "tiempoSLA": 72
+    },
+    {
+      "id": 16,
+      "nombre": "Óbito",
+      "tiempoSLA": 24
+    },
+    {
+      "id": 17,
+      "nombre": "Informativo",
+      "tiempoSLA": 72
+    },
+    {
+      "id": 18,
+      "nombre": "Internos",
+      "tiempoSLA": 48
+    },
+    {
+      "id": 19,
+      "nombre": "No categorizado",
+      "tiempoSLA": 48
+    }
+  ]
+}
